@@ -57,7 +57,7 @@ Now you are good to go!
 
 ## After the talk
 
-- Stop recording after the MC announces the next break.
+- Stop recording when the MC announces the next break.
 - Mute or turn off the mic.
 
 ## Wrapping up after the event
