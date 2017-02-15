@@ -20,10 +20,10 @@ Make sure the SD card is empty or at least enough space available. If you run so
 4. Connect the camera to the power plug
 5. Attach the microphone to the speaker or the test person
 
-![Camera Mic](https://github.com/react-vienna/video-recording-setup/raw/master/assets/Camera-Mic.jpg | width=600)
-![Camera Power](https://github.com/react-vienna/video-recording-setup/raw/master/assets/Camera-Power.jpg | width=600)
-![Tripod](https://github.com/react-vienna/video-recording-setup/raw/master/assets/Tripod.jpg | width=900)
-![Microphone Setup](https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Setup.jpg | width=450)
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Camera-Mic.jpg" width="600">
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Camera-Power.jpg" width="600">
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Tripod.jpg" width="900">
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Setup.jpg" width="450">
 
 ## Turning everything on
 
@@ -31,8 +31,8 @@ Make sure the SD card is empty or at least enough space available. If you run so
 2. Make sure the sender is not set to mute
 3. Turn on the camera
 
-![Microphone Sender/Receiver](https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Sender-Receiver-Setup.jpg | width=450)
-![Microphone Setup](https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Sender.jpg | width=450)
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Sender-Receiver-Setup.jpg" width="450">
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Sender.jpg" width="450">
 
 ## Testing
 
