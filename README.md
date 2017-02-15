@@ -66,7 +66,7 @@ After an successful event copy the videos from the SD to your computer. Once you
 
 ## Pro Tips
 
-- Record the meetup/speaker introduction. This will provide you a final check 
+- Record the meetup/speaker introduction. This will provide you a final check.
 - The camera is setup with a frequency rate that it works well the Sektor5 beamer. If you record somewhere else test there is no flickering during recording. Please reset it to the current setting once you bring it back.
 
 ### Default camera config
