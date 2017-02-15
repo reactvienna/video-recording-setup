@@ -14,15 +14,25 @@ Make sure the SD card is empty or at least enough space available. If you run so
 
 ## Connect everything
 
-1. Place the camera on the tripod and fixate the tripod!
-2. Connect the receiver element of the wireless micro to the camera `Mic` input
-3. Connect the camera to the power plug
-4. Attach the microphone to the speaker or the test person
+1. Mount the receiver onto the Camera
+2. Connect the receiver output of the wireless microphone to the camera `Mic` input
+3. Place the camera on the tripod and fixate the tripod!
+4. Connect the camera to the power plug
+5. Attach the microphone to the speaker or the test person
+
+![Camera Mic](https://github.com/react-vienna/video-recording-setup/raw/master/Camera-Mic.jpg)
+![Camera Power](https://github.com/react-vienna/video-recording-setup/raw/master/Camera-Power.jpg)
+![Tripod](https://github.com/react-vienna/video-recording-setup/raw/master/Tripod.jpg)
+![Microphone Setup](https://github.com/react-vienna/video-recording-setup/raw/master/Mic-Setup.jpg)
 
 ## Turning everything on
 
 1. Turn on the wireless microphone (receiver & sender)
-2. Turn on the camera
+2. Make sure the sender is not set to mute
+3. Turn on the camera
+
+![Microphone Sender/Receiver](https://github.com/react-vienna/video-recording-setup/raw/master/Mic-Sender-Receiver-Setup.jpg)
+![Microphone Setup](https://github.com/react-vienna/video-recording-setup/raw/master/Mic-Sender.jpg)
 
 ## Testing
 
