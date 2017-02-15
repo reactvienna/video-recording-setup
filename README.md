@@ -22,7 +22,7 @@ Make sure the SD card is empty or at least enough space available. If you run so
 
 <img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Camera-Mic.jpg" width="600">
 <img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Camera-Power.jpg" width="600">
-<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Tripod.jpg" width="900">
+<img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Tripod.jpg" width="600">
 <img src="https://github.com/react-vienna/video-recording-setup/raw/master/assets/Mic-Setup.jpg" width="450">
 
 ## Turning everything on
