@@ -44,7 +44,7 @@ Make sure the SD card is empty or at least enough space available. If you run so
 
 Now you are good to go!
 
-## For the speaker
+## Notes for the speaker
 
 - Ask the speaker should turn on screenrecording + internal mic on. This way you have another high quality video source which you can use for focusing on a slide or demo when cutting it together. The mic is useful to keep slides & footage in sync during editing. Thanks to Roland for this tip.
 - Remind the speaker to turn off recording after the Q&A before closing the notebook.
