@@ -46,8 +46,8 @@ Now you are good to go!
 
 ## Notes for the speaker
 
-- Ask the speaker should turn on screenrecording + internal mic on. This way you have another high quality video source which you can use for focusing on a slide or demo when cutting it together. The mic is useful to keep slides & footage in sync during editing. Thanks to Roland for this tip.
-- Remind the speaker to turn off recording after the Q&A before closing the notebook.
+- Ask the speaker to turn on screenrecording + internal mic on. This way you have another high quality video source which you can use for focusing on a slide or demo when cutting it together. The mic is useful to keep slides & footage in sync during editing. Thanks to Roland for this tip.
+- Remind the speaker to turn off recording right after the Q&A. Make sure the speaker saves the screen record before she/he closes the notebook.
 
 ## Before the talk
 
@@ -62,7 +62,7 @@ Now you are good to go!
 
 ## Wrapping up after the event
 
-After an successful event copy the videos from the SD to your computer. Once you have done that please remove all your videos for the next person to use it. Please make sure that all batteries (camera, mic sender & receiver) are fully charged before you leave.
+After a successful event copy the videos from the SD to your computer. Once you have done that please remove all your videos for the next person to use it. Please make sure that all batteries (camera, mic sender & receiver) are fully charged before you leave.
 
 ## Pro Tips
 
